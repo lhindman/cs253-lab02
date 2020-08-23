@@ -27,7 +27,7 @@ Enter another integer:
 
 
 ### Implementation Guide
-1. Expand the folder named LabWarmup and open the file named basic_output.c
+1. Expand the folder named LabWarmup and open the file named main.c
 2. Enter the program code to create an application as described in the Problem Description.
 3. Test the program using to ensure it functions as expected.
 4. Commit the changes to your local repository with a message stating that LabWarmup is completed.
@@ -59,7 +59,7 @@ This Lab activity is the traditional programming assignment, typically requiring
 *Hint: A backslash `\` in a string acts as an escape character, such as with a newline* `\n`. *So, to print an actual backslash, escape that backslash by prepending another backslash. Ex: The following prints a single backslash:* `printf("\\");`
 
 ### Implementation Guide
-1. Expand the folder named LabActivity and open the file named ascii_art.c
+1. Expand the folder named LabActivity and open the file named main.c
 2. Enter the program code to create an application as described in the Problem Description.
 3. Test the program using to ensure it functions as expected.
 4. Commit the changes to your local repository with a message stating that LabActivity is completed.
