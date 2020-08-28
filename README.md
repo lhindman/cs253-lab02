@@ -1,7 +1,7 @@
 # Lab02 Guide
 ## Getting Started
 
-Please watch the Lab02 Walkthough Video.
+Please watch the [Lab02 Walkthough Video](https://www.youtube.com/playlist?list=PLvnIObHoMl8fMTds723zaB5jxuh9SXdaK).
 
 ## Lab Warmup - Basic output with variables
 ### Problem Description
